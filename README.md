@@ -1,4 +1,4 @@
-### Hi there 👋
+### Impact 한 개발자가 되고 싶은 성택입니다 👋
 
 <!--
 **6uamy/6uamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
