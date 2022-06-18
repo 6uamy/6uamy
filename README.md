@@ -1,4 +1,4 @@
-### 배우며 성장하는 개발자
+### 배우며 성장하는 개발자 📚
 
 <!--
 **6uamy/6uamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
