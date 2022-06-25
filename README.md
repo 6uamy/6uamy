@@ -1,5 +1,21 @@
 ### 배우며 성장하는 개발자 📚
 
+
+🔧 SKILL
+📚 Language
+ 
+
+📐 Backend
+    
+
+💾 Database
+  
+
+🏢 Infra
+ 
+
+✂️ Tools
+    
 <!--
 **6uamy/6uamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
