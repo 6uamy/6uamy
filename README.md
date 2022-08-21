@@ -1,6 +1,6 @@
 ### 배우며 성장하는 개발자 📚     
 
-#### FE / BlockChain
+#### __FE / BlockChain__
 
 ## :wrench: SKILL
 ### :books: Language
