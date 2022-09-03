@@ -1,6 +1,6 @@
 ### 배우며 성장하는 개발자 📚     
 
-#### __FE / BlockChain__
+#### __FrontEnd / BlockChain__
 
 ## :wrench: SKILL
 
