@@ -1,6 +1,4 @@
-### 배우며 성장하는 개발자 📚     
-
-#### __FrontEnd / BlockChain__
+### __Junior Front-end & BlockChain developer__
 
 ## :wrench: SKILL
 
