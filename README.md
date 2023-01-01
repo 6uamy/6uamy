@@ -1,4 +1,4 @@
-### __Junior front-end developer 🦖__
+### __Junior web front-end developer 🦖__
 
 ### :wrench: Tech <hr>
 
