@@ -1,5 +1,3 @@
-### __Junior web front-end developer 🦖__
-
 ### :wrench: Tech <hr>
 
 ### :books: Language
