@@ -10,7 +10,7 @@
 
 ### 📐 Back-End
 
-<!-- <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> -->
+<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white">
 
 ### :scissors: Tools
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
